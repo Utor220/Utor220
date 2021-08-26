@@ -4,4 +4,4 @@ Twitter: tt.com/muramatsuv ;
 Twitch: twitch.tv/utor_ ;
 
 Feel free to msg me in any language! ( I'll do my best to understand with help of Google Translate);
-Nationalities: /  Brasileiro　/　Español  /　日本人
+Nationalities: /　Brasileiro　/　Español　/　日本人
