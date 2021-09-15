@@ -5,3 +5,8 @@ Hi, I'm Utor, currently studying so i don't have much time to do many projects, 
 
 Feel free to msg me in any language! ( I'll do my best to understand the languages i don't know with help of Google Translate);
 <br>　Nationalities: /　Brasileiro　/　Español　/
+
+<div>
+   <img height=500px src="https://github-readme-stats.vercel.app/api?username=Utor220&count_private=true&show_icons=true&theme=tokyonight">
+   <img height=500px ser="https://github-readme-stats.vercel.app/api/top-langs/?username=Utor220&langs_count=10&layout=compact">
+</div>
