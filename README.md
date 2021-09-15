@@ -7,6 +7,6 @@ Feel free to msg me in any language! ( I'll do my best to understand the languag
 <br>　Nationalities: /　Brasileiro　/　Español　/
 
 <div>
-   <img height=500px src="https://github-readme-stats.vercel.app/api?username=Utor220&count_private=true&show_icons=true&theme=tokyonight">
-   <img height=500px ser="https://github-readme-stats.vercel.app/api/top-langs/?username=Utor220&langs_count=10&layout=compact">
+   <img height=150px src="https://github-readme-stats.vercel.app/api?username=Utor220&count_private=true&show_icons=true&theme=tokyonight">
+   <img height=150px ser="https://github-readme-stats.vercel.app/api/top-langs/?username=Utor220&langs_count=10&layout=compact">
 </div>
