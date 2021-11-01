@@ -8,6 +8,6 @@ Feel free to msg me in any language! ( I'll do my best to understand the languag
 
 <div>
    <img height=150px src="https://github-readme-stats.vercel.app/api?username=Utor220&show_icons=true&theme=tokyonight">
-   <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utor220&theme=tokyonight&layout=compact&exclude_repo=Loja,Cliente,Calc_Java_MVC">
+   <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utor220&theme=tokyonight&layout=compact&exclude_repo=Loja,Cliente">
    <img height=150px src="https://github-readme-stats.vercel.app/api/wakatime?username=Utor&layout=compact">
 </div>
