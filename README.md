@@ -9,5 +9,5 @@ Feel free to msg me in any language! ( I'll do my best to understand the languag
 <div>
    <img height=150px src="https://github-readme-stats.vercel.app/api?username=Utor220&show_icons=true&theme=tokyonight">
    <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utor220&theme=tokyonight&layout=compact&langs_count=10">
-   <img height=150px src="https://github-readme-stats.vercel.app/api/wakatime?username=Utor220&layout=compact&theme=tokyonight">
+   <img height=150px src="https://github-readme-stats.vercel.app/api/wakatime?username=Utor220&layout=compact">
 </div>
