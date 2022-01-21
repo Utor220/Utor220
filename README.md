@@ -1,4 +1,4 @@
-Hi, I'm Victor Muramatsu, currently studying so i don't have much time to do many projects, but as soon as I finish up college I plan to do many things here :);
+Hi, I'm Victor Muramatsu, FINISHED COLLEGE!! Searching jobs for now :);
    <br>My Social Media: 
 <br>Twitter: tt.com/muramatsuv ;
 <br>Twitch: twitch.tv/utor_ ;
