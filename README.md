@@ -1,4 +1,5 @@
-Hi, I'm Victor Muramatsu, FINISHED COLLEGE!! Searching jobs for now :);
+Hi, I'm Victor Muramatsu and welcome to my GitHub page.;
+   <br> FINISHED COLLEGE!! Searching a job now :);
    <br>My Social Media: 
 <br>Twitter: tt.com/muramatsuv ;
 <br>Twitch: twitch.tv/utor_ ;
