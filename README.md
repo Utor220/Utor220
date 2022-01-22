@@ -1,4 +1,4 @@
-Hi, I'm Victor Muramatsu and welcome to my GitHub page.;
+Hi, I'm Victor Muramatsu and welcome to my GitHub page;
    <br> FINISHED COLLEGE!! Searching a job now :);
    <br>My Social Media: 
 <br>Twitter: tt.com/muramatsuv ;
